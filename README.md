@@ -1,6 +1,7 @@
 # OpenAI API Quickstart - Node.js Example App
 
-![Pet Icon](pet-icon.png)
+![theworldeater_AI_Language_Model_3f94872a-319d-46f3-8a76-b6f3dac01f83](https://github.com/JohnDeveloperJ/Open-AI-Language-Model/assets/143453887/ffccb75d-b4d4-4cf8-8c3a-3e8165bda657)
+
 
 This repository contains an example pet name generator app developed for the OpenAI API quickstart tutorial. The app is built using the Next.js framework with React. Follow the instructions below to set up the app and start generating creative pet names!
 
